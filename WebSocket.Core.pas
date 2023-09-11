@@ -3,7 +3,7 @@
 |==============================================================================|
 | Content: Core WebSocket client and server classes                            |
 |==============================================================================|
-| Copyright (c)2023, Vahid Nasehi Oskouei                                      |
+| Copyright (c) 2023, Vahid Nasehi Oskouei                                     |
 | All rights reserved.                                                         |
 |                                                                              |
 | Remastered and rewritten version which is based on                           |
@@ -15,7 +15,7 @@
 |                                                                              |
 |                                                                              |
 | Project download homepage:                                                   |
-|   https://github.com/biot2/libWebSocket.pas                                      |
+|   https://github.com/biot2/libWebSocket.pas                                  |
 | WebSocket RFC:                                                               |
 |   http://tools.ietf.org/html/rfc6455                                         |
 |                                                                              |
