@@ -2,7 +2,7 @@
 
 ### WebSocket server/client implementation in Object Pascal
 
-This project is based directly on pure Pascal source code.
+This project is based directly on pure and minimal [Object Pascal](https://en.wikipedia.org/wiki/Object_Pascal) source code.
 
 Project contains implementation of clients and servers using [WebSocket protocol RFC](http://tools.ietf.org/html/rfc6455)
 
