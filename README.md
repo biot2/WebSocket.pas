@@ -1,4 +1,4 @@
-# libWebSocket.pas
+# WebSocket.pas
 
 ### WebSocket server/client implementation in Object Pascal
 
