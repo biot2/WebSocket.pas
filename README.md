@@ -10,7 +10,7 @@ This library is a remastered, rewritten and customized version of **Bauglir-WebS
 and [here](https://github.com/Robert-112/Bauglir-WebSocket-2))
 which originally are based on [Bronislav Klucka's WebSocket library](http://code.google.com/p/bauglir-websocket) source code.
 
-This library requirements [Ararat Synapse socket library](http://www.ararat.cz/synapse/) to compile.
+This library requires [Ararat Synapse socket library](http://www.ararat.cz/synapse/) to compile.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Release](https://shields.io/badge/Release-v1.0-blue?style=flat)](https://github.com/biot2/libWebSocket.pas/releases/tag/v1.0)
